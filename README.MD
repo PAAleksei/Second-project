@@ -1,1 +1,1 @@
-[https://github.com/PAAleksei/posmotri_v_okno.git]
+https://github.com/PAAleksei/Second-project.git
